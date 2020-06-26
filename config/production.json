@@ -1,0 +1,6 @@
+{
+    "mongooseURI": "xxxxxxx",
+    "secretKey": "xxxxxxxxxxxx",
+    "githubClientId": "xxxxxxxxxx",
+    "gitHubClientSecret": "xxxxxxxxxxxxxxx"
+}

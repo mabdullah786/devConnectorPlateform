@@ -1,0 +1,12 @@
+export const SET_AUTH_USER_SUCCESSFUL = 'SET_AUTH_USER_SUCCESSFUL';
+export const SET_AUTH_USER_FAIL = 'SET_AUTH_USER_FAIL';
+export const START_AUTH_CALL = 'START_AUTH_CALL';
+
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+
+
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+
+export const LOGOUT_USER ='LOGOUT_USER'
